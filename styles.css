@@ -9,7 +9,17 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #8FBC8F;   
+    background-color: #8FBC8F;
+.flex-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .gif-container {
+            width: 50%; /* Takes up 50% of the container */
+            height: auto;
+        }
 }
 
 /* Sticky Navbar */
