@@ -17,7 +17,7 @@ body {
             height: 100vh;
         }
         .gif-container {
-            width: 50%; /* Takes up 50% of the container */
+            width: 250px;
             height: auto;
         }
 }
