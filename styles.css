@@ -12,7 +12,7 @@ body {
     background-color: #8FBC8F;
     
 .gif-container {
-            width: 200px; /* Adjust width as needed */
+            width: 100px; /* Adjust width as needed */
             height: auto; /* Auto height to maintain aspect ratio */           
 }
 
