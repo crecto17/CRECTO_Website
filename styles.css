@@ -9,11 +9,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #8FBC8F;
-.gif-container {
-            width: 300px; 
-            height: 100px; 
-        }       
+    background-color: #8FBC8F;   
 }
 
 /* Sticky Navbar */
