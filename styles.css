@@ -14,11 +14,11 @@ body {
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh;
+            
         }
         .gif-container {
             width: 250px;
-            height: auto;
+            height: 200px;
         }
 }
 
