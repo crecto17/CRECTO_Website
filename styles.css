@@ -13,8 +13,8 @@ body {
         
 }
 .gif-container {
-            width: 100px; /* Adjust width as needed */
-            height: auto; /* Auto height to maintain aspect ratio */  
+            width: 100px;
+            height: auto; 
 }
 
 /* Sticky Navbar */
