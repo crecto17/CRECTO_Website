@@ -11,12 +11,6 @@ body {
     line-height: 1.6;
     background-color: #8FBC8F;
 }
-    
-.gif-container {
-            width: 250px;
-            height: 200px;
-}
-
 /* Sticky Navbar */
 .navbar {
     position: sticky;
