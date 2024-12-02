@@ -57,14 +57,14 @@ main {
 
 /* Portfolio Styling */
 .portfolio {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
 }
 
 .project {
-    width: 30%;
-    margin: 20px 0;
+    /* No need to set width in grid, as grid handles column sizing */
+    margin: 0; /* Removed margin as grid will handle spacing with gap */
 }
 
 .project img {
